@@ -1,4 +1,8 @@
 # -*- coding: UTF-8 -*-
+# 
+# ## rbguo added 20180826 :
+#  这个和1.简单k-NN中的思想是一样的，都是计算距离。
+#  只不过 1.简单k-NN 里面是计算2个点之间的距离，而这个是计算（x,y,z)三个特征了，
 
 from matplotlib.font_manager import FontProperties
 import matplotlib.lines as mlines
